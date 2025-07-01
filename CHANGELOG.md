@@ -1,5 +1,11 @@
 # Changelog
 
+## [2025.7.1](https://github.com/jdx/mise/compare/v2025.7.0..v2025.7.1) - 2025-07-01
+
+### 🐛 Bug Fixes
+
+- **(registry)** use aqua backend for bat by [@risu729](https://github.com/risu729) in [#5490](https://github.com/jdx/mise/pull/5490)
+
 ## [2025.7.0](https://github.com/jdx/mise/compare/v2025.6.8..v2025.7.0) - 2025-07-01
 
 ### 🚀 Features
